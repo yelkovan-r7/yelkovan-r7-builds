@@ -1,0 +1,268 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=anizium.co",
+        "fileHash": "sha256-fae483cb4566a575e04ec47ca198faec347b735046a68dfe9433639122f06310",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 31453,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "Anizium",
+        "description": "Anizium - T\u00fcrk\u00e7e altyaz\u0131l\u0131 ve dublajl\u0131 anime ve anime filmleri.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/Anizium.cs3",
+        "name": "Anizium"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizibol.org",
+        "fileHash": "sha256-26acb6b794789e5f1edf376798009b567697f953cc0c62ac8567caa62893a3da",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 22195,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "DiziBol",
+        "description": "DiziBol - T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 dizi, film ve animeler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/DiziBol.cs3",
+        "name": "DiziBol"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizibox.live",
+        "fileHash": "sha256-f050453abdf7db06fe4863fab60ee2a9058bb40e684bd8869ca5e5286b52617c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 23185,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "DiziBox",
+        "description": "DiziBox - T\u00fcrk\u00e7e altyaz\u0131l\u0131 yabanc\u0131 diziler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/DiziBox.cs3",
+        "name": "DiziBox"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizipal1592.com",
+        "fileHash": "sha256-40cadb9f65eded815b8728e7436560ff727ea4912681d7b1f153eb12b1c039b0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 21676,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DiziPal",
+        "description": "DiziPal - T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi ve filmler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/DiziPal.cs3",
+        "name": "DiziPal"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizipod.com",
+        "fileHash": "sha256-9b4a48eddca8fdacdf6dca5f68e51afeaa6bb572ce15e2ffa9718107b9c45268",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 20891,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DiziPod",
+        "description": "DiziPod - T\u00fcrk\u00e7e altyaz\u0131l\u0131 yabanc\u0131 dizi ve filmler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/DiziPod.cs3",
+        "name": "DiziPod"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziyou.one",
+        "fileHash": "sha256-66f47e7298be51e540132be5e1ad3618ffe7c8e4bae05ecfbc620618f46a66b5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 14008,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "DiziYou",
+        "description": "DiziYou - T\u00fcrk\u00e7e altyaz\u0131l\u0131 ve dublajl\u0131 yabanc\u0131 diziler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/DiziYou.cs3",
+        "name": "DiziYou"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmizyon.net",
+        "fileHash": "sha256-354c52ff3cf8187c7f38d895e95894e1a3bb6adbb5cf6e3dabb0c425d544393c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 16651,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmIzyon",
+        "description": "FilmIzyon - T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/FilmIzyon.cs3",
+        "name": "FilmIzyon"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one",
+        "fileHash": "sha256-8c774f90778513f085bb66ef7147861ce55d07a297e6aedd8197a81adbb03794",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 18242,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmModu",
+        "description": "FilmModu - T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/FilmModu.cs3",
+        "name": "FilmModu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdfilmizlesene.now",
+        "fileHash": "sha256-6a5b5b18a865183ef8c85ec0275f778e1cc835c297b488c3905416e0a51ec4b9",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 21954,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FullHDFilmizlesene",
+        "description": "FullHDFilmizlesene - T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one",
+        "fileHash": "sha256-aa62fc9b2ba1bbbc49fb248ff5a35b270d1c4bb64202e17ec2a2955d9b3d511c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 14736,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDFilmDelisi",
+        "description": "HDFilmDelisi - T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/HDFilmDelisi.cs3",
+        "name": "HDFilmDelisi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net",
+        "fileHash": "sha256-53d5446c1f8d896b730161ec4670367c474dc80d8fcaf64b67605b3b6a71ef6e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 20565,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "KultFilmler",
+        "description": "KultFilmler - K\u00fclt ve klasik filmler, diziler (T\u00fcrk\u00e7e altyaz\u0131l\u0131).",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/KultFilmler.cs3",
+        "name": "KultFilmler"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=lovefilmizle.net",
+        "fileHash": "sha256-7689cbbd87966968f2707e378aad8e7432c11e6a8d79aa4331a87d3bca14d36c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 16555,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "LoveFilm",
+        "description": "LoveFilm - T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmler.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/LoveFilm.cs3",
+        "name": "LoveFilm"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
+        "fileHash": "sha256-9fb10035b1f467eb96026108c2f336db216d63f780836900531df3f510ccb9a3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yelkovan-r7/yelkovan-r7-builds",
+        "fileSize": 11651,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "yelkovan-r7"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "RareFilmm",
+        "description": "RareFilmm - Unutulmu\u015f ve nadir bulunan filmler ar\u015fivi.",
+        "url": "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/RareFilmm.cs3",
+        "name": "RareFilmm"
+    }
+]

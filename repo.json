@@ -1,0 +1,8 @@
+{
+  "name": "Yelkovan R7",
+  "description": "Kişisel CloudStream eklentileri.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/yelkovan-r7/yelkovan-r7-builds/builds/plugins.json"
+  ]
+}
